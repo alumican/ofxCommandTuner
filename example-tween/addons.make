@@ -1,0 +1,5 @@
+ofxCommand
+ofxCommandTuner
+ofxGui
+ofxGuiExtended
+ofxXmlSettings
